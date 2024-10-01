@@ -1,5 +1,4 @@
 # Spotify_clone (using only HTML and CSS)
-<br>
-This is my first Project.
+This is my first Repository.
 <br>
 Author:Manisha Dhankhar
